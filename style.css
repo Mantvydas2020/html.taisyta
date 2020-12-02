@@ -1,78 +1,50 @@
-html
-<head>
-<style>
-</style>
- { text-align: center;
-   text-shadow: grey;
+ body {
+
+ }
+ h1{
+
+ }
+/* container div  {
+   background: lightblue;
+   border: 5px solid # 55555;
+   width:  calc  ( 100% /4);
+   height: 100px;
+   opacity: 1;
+   display: inline-block;
+}*/
+ div.one {
+   width: 200px;
+   height: 100;
+background - color: tomato;
+
+ }
+div.two {
+  width: 200px;
+  height: 100;
+background - color: : green;
 }
- body{ background-color: white;
- text-decoration-color: :green;
-   text-align:center;
+div.three {
+  width: 200px;
+  height: 100;
+ background: yellow;
+}
+div.four{
+  width: 200px;
+  height: 100;
+ background - color: : lightblue;
+
+}
+    . div{
+
+
+ }
+
+ img {
+    position: absolute;
+    left:auto;
+    top:auto;
+    z-index: -1;
  }
 p {
-  margin-left: auto;
-color: black;
-font-size: 18px;
-text-align:left;
-}
-.fisrs{font-family: verdana;
-}
-.secont{font-family:verdana;
-  font-size: 24px;
-}
-.third{font-family:verdana;
-  font-size: 30px;
-  text color: rgb(255);
-}
-.fourth{font-family:verdana;
-}
-.five{font-style: italic;
-}
-.six{font-family: verdana;
-  <!--6 paragrafas: pabraukti tekstą. <span> elemento tekstą - išbraukti.-->
-}
-.seven{font-family: verdana;
-}
 
-span {font-family: Arial;
 }
-.firs{font-family: ;
-}
-.secont{text color: #258 ;
-font-style: italic;
-}
-.third{ display:block;
-}
-.fourth{ font-size:20px;
-}
-.five{ font-style: italic;
-  : 25px;
-}
-.six{ font-style:
-}
-.seven{
-}
- div {
-   background: coral;
-   display: inline-blick;
- }
-.fisrt{
-  width: 150px;
-  min-height: 50%;
-}
-.secont{
-  height: 150px;
-  width: 200px;
-}
-.third {
-  width: 200px;
-  height: 200px;
-  border: 4px;
-  margin:  5px;
-  padding: 20px;
-}
-.fourth{
-  height: calc(50% - 200%);
-}
-<body>
-</html>
